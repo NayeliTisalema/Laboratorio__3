@@ -46,7 +46,9 @@ Integrantes: Johan Taipicaña, Bryan Simabaña, Nayeli Tisalema.
 
 ![_calculos lab2-1](https://user-images.githubusercontent.com/85320165/122497955-e7346b80-cfb3-11eb-94e6-4bdb78b4d35f.png)
 
-![_calculos lab2-2](https://user-images.githubusercontent.com/85320165/122497958-ea2f5c00-cfb3-11eb-804b-a3a7f5781585.png)
+![calculos lab 2-2](https://user-images.githubusercontent.com/85320165/122562575-d82bd880-d008-11eb-8eab-07872998aea8.png)
+
+![calculos lab 2-3](https://user-images.githubusercontent.com/85320165/122562594-dcf08c80-d008-11eb-8ef3-42be8ca9af49.png)
 
 
 5.VIDEO
