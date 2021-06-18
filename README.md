@@ -1,5 +1,7 @@
 # Laboratorio__3
 
+Integrantes: Johan Taipicaña, Bryan Simabaña, Nayeli Tisalema. 
+
 1.OBJETIVOS
 
 1.1.Objetivo general.
