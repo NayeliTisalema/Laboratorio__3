@@ -58,5 +58,7 @@ https://youtu.be/3LjrxRyAKMM
 como podemos observar en nuestros calculos los porcentajes de error son bajos podemos decir que la ley de kirchhoff se cumple confirmando Qué es un circuito electrónico la suma de corrientes que entran a un nodo es igual a la suma de la corriente que sale del mismo y que un en un circuito electrónico a la suma algebraica de la diferencia de potencia en cualquier malla es igual a cero
 
 7.BIBLIOGRAFÍA
+
 *Leyes De Kirchhoff, Potencial El Ctrico, Conservaci N De La Energ A
+
 *Allan Robbins, Wilhelm Miller, H. C. (2008). Análisis de circuitos (Cuarta edición, Vol. 4) [Libro electrónico]. Compañia de Cengage Learning, Inc. https://drive.google.com/file/d/1VyjcBBbI2HnIPe8hEFFhniiOtW52Dvyo/viewcolaboradores
